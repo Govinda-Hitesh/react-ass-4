@@ -1,0 +1,28 @@
+
+.container-fluid{
+    background-color: blueviolet;
+    height: 60px;
+}
+.nav-link{
+    border: 1px solid;
+    width: 200px;
+    height: 50px;
+    background:linear-gradient( rgb(149, 210, 221),rgb(31, 101, 230));
+    border-radius: 25px;
+    font-size: 1.5em;
+    text-align: center;
+}
+#student{
+    position: absolute;
+    left: 45%;
+}
+
+#contact{
+    position: absolute;
+    right: 50px;
+}
+.table.table-bordered.border-primary{
+    position: absolute;
+    top: 250px;
+    background-color: aliceblue;
+}

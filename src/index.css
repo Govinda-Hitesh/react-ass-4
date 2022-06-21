@@ -1,0 +1,10 @@
+body{
+  background:linear-gradient(rgb(252, 67, 67),rgb(15, 109, 133), rgb(104, 241, 230),rgb(204, 128, 128),#ddcdda,rgb(146, 83, 175),rgb(177, 142, 142),rgb(119, 22, 163)); 
+  height: 650px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
