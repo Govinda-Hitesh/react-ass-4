@@ -20,26 +20,26 @@ function Student() {
   <tbody>
     <tr>
       
-      <td>Vishnu</td>
-      <td>20</td>
+      <td>Hitesh</td>
+      <td>23</td>
       <td>Mern</td>
-      <td>april</td>
+      <td>March</td>
       <td><Link to = "/studentEdit">Edit</Link></td>
     </tr>
     <tr>
-    <td>Durga</td>
-      <td>20</td>
+    <td>Akash</td>
+      <td>23</td>
       <td>Mean</td>
-      <td>may</td>
+      <td>April</td>
       <td><Link to = "/StudentEdit">Edit</Link></td>
      
     </tr>
     <tr>
      
-    <td>thenmozhi</td>
+    <td>Ishu</td>
       <td>22</td>
       <td>frontend</td>
-      <td>october</td>
+      <td>May</td>
       <td><Link to = "/StudentEdit">Edit</Link></td>
     </tr>
 
